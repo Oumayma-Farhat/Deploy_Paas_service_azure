@@ -1,0 +1,5 @@
+resource_group_name    = "oumayma-farhat"
+location               = "East US"
+keyvault_name          = "keyvault07"
+secret_name            = "DatabasePassword"
+secret_value           = "@Aa123456789!"
